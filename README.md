@@ -2,13 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
-    {
-        "idx": 1,
-        "color": "E3A6AE",
-        "text": "363636",
-        "textBg": "f7f5f5"
-    }
-
 <!--
 **wolveshowl/wolveshowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
