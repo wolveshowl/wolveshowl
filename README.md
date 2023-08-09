@@ -4,10 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&fontSize=80" />
 
 
-안녕하세요! 🌱<br>
-끊임없이 탐구하며 어려움을 헤쳐 나가는<br>
-백엔드 개발자 조남근입니다.
-<br>어제보다 더 나은 개발자로 성장하겠습니다.
+Hello! 🌱<br>
+I am developer Cho Nam-Keun, who constantly seeks and grows.
+<br>I will become a better developer than I was yesterday.
   
 #
 
