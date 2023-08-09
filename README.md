@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- text=welcome!%20my%20zone& -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=Time%20to%20get%20up%20and%20head%20to%20work...%&fontSize=50" />
 
 
 Hello! 🌱<br>
