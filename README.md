@@ -6,7 +6,7 @@
 #
 Hello! 🌱<br>
 I am developer Cho Nam-Keun, who constantly seeks and grows.
-<br>I will become a better developer than I was yesterday
+<br>I will become a better developer than I was yesterday.
   
 #
 
